@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rishav Chanda Portfolio</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="./images/favicon.ico">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
 <h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
 <h3 align="center"> Passionate Data Scientist from Bangladesh</h3>
 
